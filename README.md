@@ -6,7 +6,7 @@
 
 🌱 Right now, I’m diving deep into industry-related technologies like Data Pipelines, CI/CD, PySpark, Snowflake, and Azure Databricks in the Data Science domain.
 
-🔗 You can reach me at: kalyankumar.muli@gmail.com
+🔗 You can reach me at: kalyankumar.muli64@gmail.com
 
 ⚡ Fun Fact: I love coding challenges, building innovative solutions, and consistently learning new technologies to solve real-world problems!
 
