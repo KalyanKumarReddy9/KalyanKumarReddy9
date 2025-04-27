@@ -8,5 +8,5 @@
 
 🔗 You can reach me at: kalyankumar.muli@gmail.com
 
-⚡ Fun Fact: I love coding challenges, building innovative solutions, and constantly learning new technologies to solve real-world problems!
+⚡ Fun Fact: I love coding challenges, building innovative solutions, and consistently learning new technologies to solve real-world problems!
 
